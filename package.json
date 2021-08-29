@@ -1,0 +1,18 @@
+{
+  "name": "fis-ai",
+  "version": "1.0.0",
+  "description": "fis-ai hackathon GPT3 AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Nishil Faldu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^11.8.0",
+    "openai-api": "^1.2.5",
+    "tmi.js": "^1.5.0"
+  }
+}

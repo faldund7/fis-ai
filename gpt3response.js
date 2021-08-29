@@ -1,6 +1,4 @@
 const OPENAI_API_KEY = require('./env')
-//OPENAI_API_KEY ='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';
-// process.env.OPENAI_SECRET_KEY
 const got = require('got');
 
 async function generate(prompt) {

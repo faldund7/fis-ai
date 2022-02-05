@@ -1,1 +1,1 @@
-module.exports ='YOUR_PRIVATE_KEY';
+module.exports ='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';
